@@ -8,7 +8,9 @@ This project contains three distinct simulations that visualize how black holes 
 
 Video: [https://youtu.be/ApUE-OKH7cM](https://youtu.be/ApUE-OKH7cM)
 
+
 ### Physics Accuracy
+
 For a detailed explanation of the physics and equations used in these simulations, see [physics.md](physics.md).
 
 - **Schwarzschild Metric**: Accurate geodesic calculations in curved spacetime
@@ -17,10 +19,12 @@ For a detailed explanation of the physics and equations used in these simulation
 - **Event Horizon**: Proper black hole boundary where light cannot escape
 - **Photon Sphere**: Critical orbit radius at 1.5× Schwarzschild radius
 
+
 ## Acknowledgments
 
 - Huge thanks to kavan for his awesome [video](https://www.youtube.com/watch?v=8-B6ryuBkCM) and [repo](https://github.com/kavan010/black_hole) on black hole simulation in C++. I tried making my own version before but couldn't get it right. His project showed me the way.
 - Also, shoutout to Cursor and Claude-4-sonnet for writing most of this code.
+
 
 ## 🚀 Quick Start
 

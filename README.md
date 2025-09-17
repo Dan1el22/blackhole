@@ -9,7 +9,7 @@ This project contains three distinct simulations that visualize how black holes 
 Video: [https://youtu.be/ApUE-OKH7cM](https://youtu.be/ApUE-OKH7cM)
 
 
-### Physics Accuracy
+## Physics Accuracy
 
 For a detailed explanation of the physics and equations used in these simulations, see [physics.md](physics.md).
 
@@ -26,9 +26,7 @@ For a detailed explanation of the physics and equations used in these simulation
 - Also, shoutout to Cursor and Claude-4-sonnet for writing most of this code.
 
 
-## 🚀 Quick Start
-
-### Installation
+## Quick Start
 
 1. **Clone the repository:**
 

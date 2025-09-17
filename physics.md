@@ -1,4 +1,4 @@
-# Physics of Black Hole Simulation: From Theory to Implementation
+# Physics of Black Hole Simulation
 
 ## Introduction
 

